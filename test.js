@@ -1,6 +1,2 @@
 var version;
-version = 1.0;
-function test() {
-    console.log(version);
-}
-test();
+version = 2.0;
